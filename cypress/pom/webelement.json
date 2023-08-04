@@ -1,0 +1,16 @@
+{
+    "login":"//a[text()='Sign In']",
+    "ChooseemailXpath":"//a[@id='fb-auth-button']/following-sibling::a//button",
+    "EmailCSS":"#ap_email",
+    "PasswordCss":"#ap_password",
+    "SignUpbtnCss":"#signInSubmit",
+    "searchBarXpath":"//input[@placeholder='Search books' ]",
+    "WantstoWriteXpath":"//div[@id='1_book_50623864']//span[text()='Want to Read']",
+    "GotoBookXpath":"(//ul[@class='siteHeader__menuList']//a[text()='My Books'])[1]" ,
+    "removeBookXpath":"//img[@title='Remove from my books']",
+    "AssertionXpath":"//div[@class='box noticeBox']//div",
+    "IconXpath":"//span[@class='headerPersonalNav__icon']",
+    "SignOutXpath":"//a[text()='Sign out']"
+
+    
+}
